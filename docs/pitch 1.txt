@@ -1,0 +1,86 @@
+Good morning sir.
+I’m Komal, and on behalf of my team, I’d like to thank you for this opportunity.
+We’ve chosen to work on a project idea based on a WhatsApp Chatbot—a system where users can chat with a bot directly on WhatsApp for quick support or services.
+now, we’ll share our roles and how we plan to build this project.
+
+👩 Komal (yourself):
+
+I’ll be working on the frontend development. I plan to create the chatbot interface—something clean and user-friendly, where messages can be typed and viewed easily by the user.
+
+👩‍💻 Kaumudi:
+
+Good morning sir. I’m Kaumudi. I’ll handle the backend development. I’ll be connecting the chatbot to the WhatsApp API using Twilio, and making sure it sends and receives messages smoothly.
+
+👩 Harshita:
+
+Good morning sir. I’m Harshita. I’ll work on the AI/ML part of the project. I plan to train the chatbot to understand user messages and give smart replies using natural language processing.
+
+👩 Lakshita:
+
+Good morning sir. I’m Lakshita. I’ll also be working on the frontend side, helping with the design, layout, and connecting the frontend to the backend.
+
+---
+
+🔹  Kaumudi – Problem Statement 
+
+> Many small businesses get flooded with repeated customer questions.  
+> Support teams often spend  3–4 hours daily  answering the same basic queries.  
+> This leads to  slow responses,   high costs, and   frustrated customers .
+
+---
+
+🔹  Lakshita – Solution 
+
+> Our solution is a  smart WhatsApp chatbot  that handles these repeated queries automatically.  
+> It gives  instant replies, reduces the   workload, and improves the   user experience .  
+> It’s also quick to set up and works directly on WhatsApp, where users already spend their time.
+
+---
+
+🔹  Harshita – Competitor Analysis 
+
+> Tools like WATI, Zoko, and Yellow.ai already exist.  
+> But they are often  too costly,   complex to use, or   lack flexibility .  
+> Our bot aims to fix these gaps with a simpler and smarter experience.
+
+---
+
+🔹  Komal – Unique Features (How Our Bot Stands Out) 
+
+> - 🤖 Uses AI for smart replies – not just fixed responses  
+> - 💬 Clean, user-friendly interface inside WhatsApp  
+> - ⚡ Fast replies, auto-suggestions, and automation  
+> - 📱 No extra app needed – runs inside WhatsApp  
+> - 💼 Simple, cost-effective solution for small businesses
+
+---
+
+
+🛠 Tech Stack for ChatEase
+🔹  Frontend (Komal & Lakshita)    
+ Technologies: 
+-  HTML, CSS, JavaScript 
+-  React.js  (for dynamic and fast UI)
+-  Tailwind CSS or Bootstrap  (for styling)
+
+---
+
+🔹  Backend (Kaumudi)    
+ Technologies: 
+-  Node.js + Express.js  (Lightweight and fast API server)
+-  Twilio API  (for sending/receiving WhatsApp messages)
+-  MongoDB 
+---
+
+🔹  AI/ML (Harshita)   
+ Technologies: 
+-  Python 
+-  Natural Language Processing (NLP) Libraries: 
+-  Flask 
+---
+
+🔧  Tools & Services 
+-  Twilio Sandbox  (for WhatsApp testing)
+-  Postman  (for testing APIs)
+-  GitHub  (for version control and team collaboration)
+-  Vercel  (to deploy frontend and backend apps)
