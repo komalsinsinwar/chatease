@@ -1,0 +1,14 @@
+{
+  "intents": [
+    {
+      "tag": "syllabus",
+      "patterns": ["What is the syllabus?", "Show me syllabus", "Subject list"],
+      "responses": ["The syllabus includes Math, Physics, Computer Science, and Communication Skills."]
+    },
+    {
+      "tag": "admission",
+      "patterns": ["How to apply for admission?", "admission process"],
+      "responses": ["You can apply for admission via the college portal: https://college.example.com"]
+    }
+  ]
+}
